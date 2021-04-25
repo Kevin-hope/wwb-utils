@@ -1,0 +1,20 @@
+{
+  "name": "wwb-utils",
+  "version": "1.0.0",
+  "description": "wwb utils library",
+  "main": "./index.js",
+  "author": "Kevin-hope",
+  "license": "ISC",
+  "email": "1827844001@qq.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-hope/wwb-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kevin-hope/wwb-utils/issues"
+  },
+  "homepage": "https://github.com/Kevin-hope/wwb-utils#readme"
+}
